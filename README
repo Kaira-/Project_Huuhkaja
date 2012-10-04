@@ -1,0 +1,5 @@
+Copyright (c) 2011- Jukka Pietilä, Teemu Kaukoranta, Antti Tönkyrä
+
+To build you need at least Qt 4.7.4. Import project to Qt Creator and build.
+
+This software is delivered with no guarantee and warranty.
